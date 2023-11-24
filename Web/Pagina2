@@ -4,7 +4,7 @@
         <title>ENCABEZADO NIVEL1</title>
     </head>
     <body>
-        <header><h1> ENCABEZADO NIVEL1 </h1></header>
+        <header><h1> ENCABEZADO NIVEL 1 </h1></header>
         <nav> 
             <style>
                 ul.navega li{display: inline}
